@@ -1,0 +1,3 @@
+# Ignore loose PDFs in root so GitHub repository structure stays strictly:
+# Dataset/Narkotika.zip, Overview/Overview.xlsx, and README.md
+/*.pdf
